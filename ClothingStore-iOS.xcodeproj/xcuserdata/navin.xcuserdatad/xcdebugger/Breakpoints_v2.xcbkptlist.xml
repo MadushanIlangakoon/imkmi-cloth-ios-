@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6E923C1F-CBF8-4B31-9814-46F94894D302"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE4087DE-A739-483B-8E9A-A9DD1B57804F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClothingStore-iOS/Views/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AE4087DE-A739-483B-8E9A-A9DD1B57804F - f2bf5b06fa116c95"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClothingStore_iOS.LoginView.body.getter : some"
+                  moduleName = "ClothingStore-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/navin/Documents/Fuck%20Files/Projects/courseworks/clothingstore_madushan/ClothingStore-iOS/ClothingStore-iOS/Views/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "AE4087DE-A739-483B-8E9A-A9DD1B57804F - 5e983ca29de3424b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in ClothingStore_iOS.LoginView.body.getter : some"
+                  moduleName = "ClothingStore-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/navin/Documents/Fuck%20Files/Projects/courseworks/clothingstore_madushan/ClothingStore-iOS/ClothingStore-iOS/Views/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66003B8A-03B2-497A-B4E3-224CF6658471"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClothingStore-iOS/Helpers/CartMemory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "CartElement"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
